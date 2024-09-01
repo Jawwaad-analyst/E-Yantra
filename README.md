@@ -1,4 +1,4 @@
 # E-Yantra
 first repository.
 <br>
-Author-literal gods
+Author-literal Gods
